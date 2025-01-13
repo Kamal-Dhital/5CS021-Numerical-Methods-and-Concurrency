@@ -1,0 +1,1 @@
+Name: Anil, Age: 23, Salary: 234234.000000Name: Kamal, Age: 20, Salary: 32313.000000Name: Anush, Age: 452, Salary: 42323623.000000Name: luja, Age: 25, Salary: 234131.000000
